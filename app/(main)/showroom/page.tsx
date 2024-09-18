@@ -1,3 +1,4 @@
+'use client'
 import { useEffect } from 'react';
 import * as THREE from 'three';
 import MainLayout from '../_components/main-layout';
